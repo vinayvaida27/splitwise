@@ -1,6 +1,3 @@
-# splitwise_app.py
-# pip install streamlit pdfplumber pandas openpyxl
-# streamlit run splitwise_app.py
 
 import re
 import math
